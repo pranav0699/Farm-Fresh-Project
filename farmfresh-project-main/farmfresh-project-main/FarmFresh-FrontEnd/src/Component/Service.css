@@ -1,0 +1,34 @@
+/* Service.css */
+
+.service-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .service-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service-content h2 {
+    color: #333333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .service-item {
+    margin-bottom: 20px;
+  }
+  
+  .service-item h3 {
+    color: #555555;
+  }
+  
+  .service-item p {
+    color: #666666;
+    line-height: 1.6;
+  }
+  

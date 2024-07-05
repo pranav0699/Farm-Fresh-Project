@@ -1,0 +1,38 @@
+/* App.css */
+
+.App {
+    text-align: center;
+  }
+  
+  /* Add your custom styles here */
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+  }
+/* Navbar container */
+.navbar {
+    background-color: #acc491; /* Set the background color of the Navbar */
+    border-bottom: 1px solid #566041; /* Add a bottom border */
+  }
+  
+  /* Navbar brand link */
+  .navbar-brand {
+    font-size: 2rem; /* Adjust the font size of the brand */
+    font-weight: bold; /* Make the font bold */
+    color: #333333; /* Set the text color */
+  }
+  
+  /* Navbar links */
+  .nav-link {
+    color: #333333; /* Set the text color */
+  }
+  
+  /* Navbar links on hover */
+  .nav-link:hover {
+    color: #555555; /* Change the text color on hover */
+  }
+  
+  /* Active navbar link */
+  .navbar .nav-link.active {
+    font-weight: bold; /* Make the active link bold */
+  }  

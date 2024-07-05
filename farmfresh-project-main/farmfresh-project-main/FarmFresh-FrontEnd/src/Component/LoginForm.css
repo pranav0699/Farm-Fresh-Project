@@ -1,0 +1,19 @@
+.login-container {
+    height: 100vh;
+    background-image: url('https://i.etsystatic.com/8977982/r/il/9e5da8/2282757880/il_fullxfull.2282757880_a4vt.jpg'); /* Add your background image URL */
+    background-size: cover;
+    background-position: center;
+}
+
+.login-card {
+    background-color: #59cc96cc; /* Semi-transparent white background */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(160, 194, 115, 0.445); /* Soft shadow effect */
+}
+
+.card-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
